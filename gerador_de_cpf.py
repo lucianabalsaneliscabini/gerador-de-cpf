@@ -11,7 +11,7 @@ somador_1 = 0
 for number in cpf_format:
     mult = int(number) * multiplicador_1
     somador_1 += mult
-    multiplicador_1 -= 1
+    multiplicador_1 -= 
     
 digitCalculation = 11 - (somador_1 % 11)
 primeiro_digito = digitCalculation
