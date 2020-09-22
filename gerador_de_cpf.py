@@ -43,5 +43,3 @@ if segundo_digito > 9:
 concatenation += str(segundo_digito)
 
 print('\033[34mCPF\033[m = {}'.format(concatenation))
-
-#testando
